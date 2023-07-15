@@ -45,12 +45,3 @@ Run the scripts to issue tokens
 truffle exec scripts/issue-tokens.js
 Demo of the DApp with the screenshots can be found on this wiki page.
 
-Citation
-If you use this code for your publications, please cite it as:
-
-@ONLINE{
-    author = "Ahmet Özlü",
-    title  = "DeFi Yield Farming App",
-    year   = "2021",
-    url    = "https://github.com/ahmetozlu/defi_yield_farming"
-}
